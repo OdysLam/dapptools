@@ -14,6 +14,7 @@
 ### Fixed
 
 - The block gas limit and basefee are now correctly fetched when running tests via rpc
+- Replay data for invariant tests is now displayed in a form that does not cause errors when used with `dapp test --replay`
 
 ## 0.48.0 - 2021-08-03
 
